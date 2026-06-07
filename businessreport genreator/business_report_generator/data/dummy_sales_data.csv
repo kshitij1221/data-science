@@ -1,0 +1,32 @@
+order_id,order_date,customer,region,category,product,units,unit_price
+1001,2026-01-03,Acme Retail,North,Electronics,Laptop,4,850
+1002,2026-01-06,Bluebird Stores,South,Furniture,Office Chair,12,120
+1003,2026-01-10,Urban Cart,West,Electronics,Monitor,8,210
+1004,2026-01-14,Northstar LLC,East,Office Supplies,Printer Paper,50,6
+1005,2026-01-18,Acme Retail,North,Software,POS License,6,300
+1006,2026-01-23,Vertex Traders,South,Electronics,Tablet,10,280
+1007,2026-02-02,Prime Mart,West,Furniture,Standing Desk,5,420
+1008,2026-02-08,Urban Cart,West,Office Supplies,Ink Cartridge,20,35
+1009,2026-02-12,Silverline Co,East,Electronics,Headphones,30,55
+1010,2026-02-16,Bluebird Stores,South,Software,Analytics Suite,3,1200
+1011,2026-02-22,Northstar LLC,East,Furniture,Conference Table,2,950
+1012,2026-03-01,Acme Retail,North,Electronics,Smartphone,15,520
+1013,2026-03-05,Vertex Traders,South,Office Supplies,Notebook Pack,40,12
+1014,2026-03-11,Prime Mart,West,Software,CRM License,4,700
+1015,2026-03-18,Silverline Co,East,Electronics,Router,18,90
+1016,2026-03-25,Urban Cart,West,Furniture,Storage Cabinet,7,240
+1017,2026-04-03,Bluebird Stores,South,Electronics,Laptop,3,880
+1018,2026-04-07,Northstar LLC,East,Software,Security License,8,250
+1019,2026-04-15,Acme Retail,North,Office Supplies,Desk Organizer,25,18
+1020,2026-04-20,Prime Mart,West,Electronics,Monitor,9,225
+1021,2026-04-28,Vertex Traders,South,Furniture,Office Chair,14,115
+1022,2026-05-04,Silverline Co,East,Office Supplies,Printer Paper,70,5
+1023,2026-05-09,Urban Cart,West,Software,POS License,5,320
+1024,2026-05-16,Bluebird Stores,South,Electronics,Tablet,11,275
+1025,2026-05-22,Acme Retail,North,Furniture,Standing Desk,4,430
+1026,2026-06-01,Northstar LLC,East,Electronics,Smartphone,12,540
+1027,2026-06-05,Prime Mart,West,Office Supplies,Ink Cartridge,26,34
+1028,2026-06-12,Vertex Traders,South,Software,Analytics Suite,2,1250
+1029,2026-06-20,Silverline Co,East,Furniture,Storage Cabinet,6,250
+1030,2026-06-27,Urban Cart,West,Electronics,Headphones,35,52
+
